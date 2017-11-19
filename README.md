@@ -1,0 +1,1 @@
+# locasy_app
